@@ -1,4 +1,4 @@
-# piCorePlayer-Album_Player
+# Album_Player for piCorePlayer
 
 Script to install RoonBridge on recent PiCorePlayer OS
 
