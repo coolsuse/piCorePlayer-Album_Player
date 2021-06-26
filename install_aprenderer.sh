@@ -5,7 +5,8 @@
 
 useBusybox
 TARGET=`cat /etc/sysconfig/backup_device`
-ceo wget https://raw.githubusercontent.com/sam0402/pcp-44.1KHz/master/pcp-aplayer_render.tcz
+ceo
+wget https://raw.githubusercontent.com/sam0402/pcp-44.1KHz/master/pcp-aplayer_render.tcz
 ce
 echo pcp-aplayer_render.tcz >>onboot.lst
 
