@@ -1,6 +1,6 @@
-# Album_Player for piCorePlayer
+# Album Player for piCorePlayer
 
-Script to install RoonBridge on recent PiCorePlayer OS
+Script to install Album Player on PiCorePlayer OS
 
 Login to PiCorePlayer using ssh, default login: tc password: piCore
 
