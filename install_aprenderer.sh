@@ -11,3 +11,4 @@ cd optional
 wget https://raw.githubusercontent.com/sam0402/piCorePlayer-Album_Player/master/pcp-aplayer_render.tcz
 
 pcp_write_var_to_config USER_COMMAND_3 "aplayer;aprenderer"
+pcp br
