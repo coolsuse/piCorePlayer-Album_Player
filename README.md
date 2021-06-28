@@ -14,7 +14,7 @@ Album Player and Renderer will be installed after auto reboot twice.
 
 Install method 2,
 
-Login to PiCorePlayer using ssh, default login: tc password: piCore
+Login to PiCorePlayer using ssh, default login: `tc` password: `piCore`
 
 run:
 
