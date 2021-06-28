@@ -2,7 +2,7 @@
 
 Script to install Album Player and Renderer on PiCorePlayer OS
 
-To install：
+Install method 1,
 
 Paste the command line in the "User command #3" of Tweaks Page 
 
@@ -10,7 +10,19 @@ Paste the command line in the "User command #3" of Tweaks Page
 
 "Save" and "Reboot"
 
-Album Player and Renderer will be installed after auto reboot twice, enjoy!
+Album Player and Renderer will be installed after auto reboot twice.
+
+Install method 2,
+
+Login to PiCorePlayer using ssh, default login: tc password: piCore
+
+run:
+
+$ `wget -O - https://raw.githubusercontent.com/sam0402/piCorePlayer-Album_Player/master/install_aprenderer.sh | sudo sh`
+
+Album Player and Renderer will be installed after auto reboot.
+
+Enjoy it!
 
 port :7778 for Album Player
 
