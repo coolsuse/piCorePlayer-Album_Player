@@ -10,7 +10,7 @@ Paste the command line in the "User command #3" of Tweaks Page
 
 "Save" and "Reboot"
 
-Album Player and Renderer will be installed after reboot, enjoy!
+Album Player and Renderer will be installed after auto reboot twice, enjoy!
 
 port :7778 for Album Player
 
