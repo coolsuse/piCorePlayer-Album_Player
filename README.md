@@ -24,8 +24,8 @@ Album Player and Renderer will be installed after auto reboot.
 
 Enjoy it!
 
-port :7778 for Album Player
+port :7778 is for Album Player
 
-port :7779 for Renderer
+port :7779 is for Renderer
 
 
