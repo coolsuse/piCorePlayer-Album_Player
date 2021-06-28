@@ -4,7 +4,7 @@ Script to install Album Player and Renderer on PiCorePlayer OS
 
 To install：
 
-Paste the command line in "User command #3" of Tweaks Page 
+Paste the command line in the "User command #3" of Tweaks Page 
 
 `wget -O - https://raw.githubusercontent.com/sam0402/piCorePlayer-Album_Player/master/install_aprenderer.sh | sudo sh`
 
